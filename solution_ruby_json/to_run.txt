@@ -1,0 +1,8 @@
+Command
+
+ruby runner.rb
+
+
+To add or change the users, then make the changes in the runner.rb file
+
+You will see the output in users.json file(which will be initially created and then gets updated accordingly)
