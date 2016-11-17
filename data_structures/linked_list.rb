@@ -13,7 +13,7 @@ end
 class LinkedList
 
   def initialize val
-    # Initialize a new node at the head
+    # Initialize a new node at the head :)
     @head = Node.new(val, nil)
   end
 
